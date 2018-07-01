@@ -1,3 +1,4 @@
 hajimetenogit
 基本的なワークフローが学べます。
 git rm
+git status
